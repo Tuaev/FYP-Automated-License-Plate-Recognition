@@ -1,0 +1,17 @@
+Main file:
+GUI.m  
+
+Function files:
+AreaOfInterest.m
+Segmentation.m
+NN_Digit_Recognition.m
+NN_Letter_Recognition.m
+
+Neural Network Training Files:
+NeuroTrainingNumbers.m
+NeuroTrainingLetters.m
+
+
+The function files are called from the main GUI.m file that should be ran in MATLAB. 
+The Neural Network files are used to train the neural network. The Neural Network is already trained with the trained weights in the NN-Weights folder.
+
